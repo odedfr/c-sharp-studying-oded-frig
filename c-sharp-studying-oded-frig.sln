@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-studying-oded-frig", "c-sharp-studying-oded-frig\c-sharp-studying-oded-frig.csproj", "{2EEAEF35-217F-4674-8B90-3B8C589621CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEAEF35-217F-4674-8B90-3B8C589621CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEAEF35-217F-4674-8B90-3B8C589621CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEAEF35-217F-4674-8B90-3B8C589621CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEAEF35-217F-4674-8B90-3B8C589621CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78302054-F3AA-4020-8434-373C87962C4E}
+	EndGlobalSection
+EndGlobal
