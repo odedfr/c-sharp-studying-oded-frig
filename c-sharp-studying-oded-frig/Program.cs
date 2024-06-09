@@ -1,4 +1,5 @@
-﻿using System;
+﻿using c_sharp_studying_oded_frig.task;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace c_sharp_studying_oded_frig
     {
         static void Main(string[] args)
         {
+            Level1.RunMe();
         }
     }
 }
