@@ -15,6 +15,7 @@ namespace c_sharp_studying_oded_frig.task
         {
             Console.WriteLine("Hi, I am class level 2.");
             Level_3_1.RunMe();
+            Level_3_2.RunMe();
 
         }
     }
